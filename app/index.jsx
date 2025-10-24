@@ -8,7 +8,7 @@ import {
 
 
 
-export default function Home() {
+export default function Index() {
     return (
         <View style={styles.container}>
             <Text style={styles.title}>

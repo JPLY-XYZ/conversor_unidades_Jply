@@ -15,6 +15,7 @@ const CONVERSIONS = {
     FOOT_TO_INCH: 12,
     YARD_TO_FOOT: 3,
     MILE_TO_FOOT: 5280,
+    
 };
 
 export default function Longitud() {

@@ -6,7 +6,7 @@ export default function RootLayout() {
   return (
     <SafeAreaProvider style={styles.safeArea}>
       <Stack>
-        <Stack.Screen name="home" options={{ headerShown: false }} /> 
+        <Stack.Screen name="index" options={{ headerShown: false }} /> 
          <Stack.Screen  name="longitud"  options={{ headerShown: true, title:"Tamaños" }} /> 
           <Stack.Screen  name="pesos"  options={{ headerShown: true, title:"Peso/Masa" }} /> 
       </Stack>
