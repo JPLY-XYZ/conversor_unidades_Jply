@@ -15,7 +15,7 @@ El proyecto es una aplicación móvil (creada con React Native / Expo) que permi
 
 1.  **Clonar el repositorio:**
     ```bash
-    git clone [https://github.com/JPLY-XYZ/conversor_unidades_Jply.git](https://github.com/JPLY-XYZ/conversor_unidades_Jply.git)
+    git clone https://github.com/JPLY-XYZ/conversor_unidades_Jply.git
     cd conversor_unidades_Jply
     ```
 
